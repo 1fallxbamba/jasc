@@ -1,4 +1,4 @@
-#J.A.S.C : Just A Simple Calculator
+# J.A.S.C : Just A Simple Calculator
 
 JASC is a basic distributed calculator.
 

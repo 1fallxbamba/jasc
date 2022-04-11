@@ -4,16 +4,16 @@ import services.JASCService;
 
 import java.rmi.RemoteException;
 
-public class JASCer implements JASCService {
+public class JASCBrain implements JASCService {
     @Override
     public double calculate(String type, double a, double b) throws RemoteException {
         double result = 0;
         switch (type) {
             case "+":
-                result = a +b;
+                result = a + b;
                 break;
             case "-":
-                result = a -b;
+                result = a - b;
                 break;
             case "*":
                 result = a * b;
@@ -22,10 +22,13 @@ public class JASCer implements JASCService {
                 result = a / b;
                 break;
             case "%":
-                result = a %b;
+                result = a % b;
+                break;
+            case "**":
+                result = Math.pow(a, b);
                 break;
             default:
-                result =  0;
+                result = 0;
         }
 
         return result;

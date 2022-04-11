@@ -6,7 +6,7 @@ module sn.jasc.jasc_client {
     requires java.rmi;
 
     opens sn.jasc.jasc_client to javafx.fxml;
-    opens sn.jasc.jasc_client.services to javafx.rmi;
-    exports sn.jasc.jasc_client.services;
+   // opens sn.jasc.jasc_client.services to java.rmi;
+    //exports sn.jasc.jasc_client.services;
     exports sn.jasc.jasc_client;
 }

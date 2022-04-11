@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eccd072e-c92e-4f4c-813b-5a7ae2742c9d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jasc_client.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sn/jasc/jasc_client/JASCController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sn/jasc/jasc_client/JASCController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sn/jasc/jasc_client/services/JASCService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sn/jasc/jasc_client/jasc-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sn/jasc/jasc_client/jasc-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sn/jasc/jasc_client/JASCApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sn/jasc/jasc_client/JASCApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sn/jasc/jasc_client/JASCController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sn/jasc/jasc_client/JASCController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sn/jasc/jasc_client/jasc-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sn/jasc/jasc_client/jasc-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sn/jasc/jasc_client/services/JASCService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/jasc_server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/out/production/jasc_server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/out/production/jasc_server/Home.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/out/production/jasc_server/brain/JASCer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/out/production/jasc_server/services/JASCService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/src/Home.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/src/brain/JASCer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/src/services/JASCService.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="27Z7neLcb0RJ9HN6Kr4PveGIXgw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Server" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JASCApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sn.jasc.jasc_client.JASCApplication" />
+      <module name="jasc_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sn.jasc.jasc_client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JASCApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eccd072e-c92e-4f4c-813b-5a7ae2742c9d" name="Changes" comment="" />
+      <created>1649515926836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649515926836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,11 +1,12 @@
 package sn.jasc.jasc_client;
 
-import javafx.fxml.FXML;
-import javafx.scene.control.Label;
-import sn.jasc.jasc_client.services.JASCService;
-
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
+
+import javafx.fxml.FXML;
+import javafx.scene.control.Label;
+import services.JASCService;
+
 
 public class JASCController {
     @FXML
@@ -28,6 +29,7 @@ public class JASCController {
             jascResult.setText(String.valueOf(result));
 
         } catch (Exception e) {
+        	e.printStackTrace();
             System.err.println(e.getMessage());
         }
     }
